@@ -1,0 +1,80 @@
+Package Name,Reviewer name,Review,Rating
+com.pluscubed.matlog,Areasu,Spins around. Alternative all from the store works fine,3
+com.pluscubed.matlog,Daniel winston Summ ey. Jr,Tbest,5
+com.pluscubed.matlog,Danim,Impressive it is :),5
+com.pluscubed.matlog,Nikita Vaizin,"Buggy, does not respect its own settings and constantly jumps around",1
+com.pluscubed.matlog,rijal,nice,5
+com.pluscubed.matlog,A Google user,Solid logcat app with useful features. Can start recording with a filter both in app & using widget. Stop recording works in app and widget. Great can manage saved logcats in app. Works on both my rooted and unrooted device. Supports log entry copy to clipboard or save log to a text file. Thanks Devs👏🏼 Android 11,5
+com.pluscubed.matlog,Hector Casillas,Good,5
+com.pluscubed.matlog,Kevad Sugis,Simple and clear app for minimal app debugging on the go,5
+com.pluscubed.matlog,Paragon,"Cmon please save the log files whenever Android crashes ,=(",4
+com.pluscubed.matlog,Axel Facundo Nuñez vera,Me es de mucha ayuda para ver los errores y corregirlos en las ROMs,5
+com.pluscubed.matlog,Darin Shaver,Phone must be rooted or connect to a PC. NOT INTERESTED.,1
+com.pluscubed.matlog,David Anderson,"Yes you can view the log - after running the Adb command. But, the Android log is chock full of entries so searchability is a big deal and that's where the app falls short. While I can isolate entries by search string I can't then navigate to the position of a given entry and view it in full context - big failing - and scrolling through is simply impossible due to volume of entries. And saved logs can't be opened in readable form looks like the compressed zip file is opened without decompression",3
+com.pluscubed.matlog,Alex Doub,App literally doesn't work. It just loads forever,1
+com.pluscubed.matlog,Tomula,Amazing.,5
+com.pluscubed.matlog,navabi samar,Keep maintaining this app!,5
+com.pluscubed.matlog,Mubashir Rehman,Helps to get logs without a pc. Thanks for the appa,5
+com.pluscubed.matlog,prod. 7 Earth,Lately it stopped working for me... It's just loading forever. The app itself is 5/5 but I think I'm missing something... Could you please help me?,5
+com.pluscubed.matlog,N Cooper,Appears to work with my hudl2 5.1 but need info about how to add filters by date and interpret the log in order to debug crashes.,3
+com.pluscubed.matlog,Probir Ghosh,This app really helpful for debugging stuff 🙏,4
+com.pluscubed.matlog,Federico Calzoni,Not working on OnePlus6,1
+com.pluscubed.matlog,Colby Combs,Doesn't even load 90% of the time,1
+com.pluscubed.matlog,David,"Can you please help me re-enable my logs? I disabled it by renaming ""logd"" in system/bin to ""logd.bak"". I recently wanted to re enable it but no file explorer was able to rename it back to ""logd"". I finally renamed it to ""logd"" but logging seems to not be working because this app loads forever with no text like it used to and other apps that use logcat don't work either. Please help!",5
+com.pluscubed.matlog,Leif Hagert,the best Edit: no android 10 support,3
+com.pluscubed.matlog,A Google user,Not working in OP6T with stock stable A10. Its just keep showing the loading screen while opening the App.,3
+com.pluscubed.matlog,Ashwar Sadh,"It didnt work, i am rooted",1
+com.pluscubed.matlog,Harish,Update the app please...,5
+com.pluscubed.matlog,Andrés Barrantes Silman,Exactly what we need.,5
+com.pluscubed.matlog,Ariyanto Adi Nugroho,This app is very helpful.,5
+com.pluscubed.matlog,Alisson Lauffer,awesome app,5
+com.pluscubed.matlog,Sumit Singh,not working,1
+com.pluscubed.matlog,Addin Mohd,Keeps spinning after launched. Cant do nothing,1
+com.pluscubed.matlog,Al Klein,Very nice - better than logcat for some things.,5
+com.pluscubed.matlog,Louis Solomon,HOW TO USE WITHOUT ROOT: adb shell pm grant com.pluscubed.matlog android.permission.READ_LOGS,3
+com.pluscubed.matlog,alex gardner,"Complains about needing root access to read logs, but never asks for it.",1
+com.pluscubed.matlog,Michael Bergman,"More often than not the app just shows a spinning wheel, and no logs, on my OnePlus 6T rooted with Magisk. Does work periodically.",2
+com.pluscubed.matlog,A Google user,Just a well rounded solution for on device log data....Nice work!!!,5
+com.pluscubed.matlog,A Google user,Doesn't even work,1
+com.pluscubed.matlog,Jay C,Thank you for fixing the Widget.  Matlog is the best Logcat for me,5
+com.pluscubed.matlog,A Google user,Won't even grant root permission!,1
+com.pluscubed.matlog,Abdulrahman Abdullahi,Alhamdulillah,5
+com.pluscubed.matlog,Jacques Bertrand,"Works great. This should be added to the app's description: if you don't have root, connect to computer & copy/paste this in adb: adb shell pm grant com.pluscubed.matlog android.permission.READ_LOGS",5
+com.pluscubed.matlog,--,Needs root,1
+com.pluscubed.matlog,Khalid Alharisi,I like how you provide an alternative way to grant the required permission. Thanks a lot.,5
+com.pluscubed.matlog,Alvin Lin,not working,2
+com.pluscubed.matlog,Arun G,"It just keep spinning. I am sure that is was working last month. But now it 
+just keeps spinning.",1
+com.pluscubed.matlog,mito . . .,Crashes when sending log as text or attachment. note 8 and oreo.,2
+com.pluscubed.matlog,Peter Aarnoutse,"Tried MatLog because Nolan Lawson's CatLog (which I used before) didn't work anymore at my device after upgrading to Oreo. Unfortunately, exactly same problem encountered when using MatLog: Just spinning, no details shown.     Replaced now by Logcat Extreme, which appeared to work OK at my OnePlus 5 running OxygenOS 5.1.1 (=Android 8.1.0).",1
+com.pluscubed.matlog,Salih ÖZEN,"App is very good for finding errors. But it is running in the background 
+and it cause ""logd"" battery drain. There isn't any option to stop it.",4
+com.pluscubed.matlog,A Google user,"It spams the log itself with TONS of ""setTypeface with style: 0"" messages; sometimes it doesn't display logs anymore after pausing/clearing.",2
+com.pluscubed.matlog,Jordan,"Excellent Tool. I wish you could pause and take multiple partials in same stop.   There are also some bugs experienced, Log refresh upon launch seems to be a problem for a long time.",5
+com.pluscubed.matlog,Nick Henson,"Unable to send ""Share"", when selecting ""As Attachment"" or ""As Text"" MatLog has stopped.",2
+com.pluscubed.matlog,BirdFrogTurtle BirdFrogTurtle,"Very nice when working, which has been most of the time, but is now become unable to populate log when sensitive data filter is enabled on LOS 14.1.",3
+com.pluscubed.matlog,Purian23,Thank you for keeping this up to date. Best out there!,5
+com.pluscubed.matlog,Dmytro Sheludko,"Granted the root access to it. It tries to load the logs, but then just hangs and i need to force close the app. A bit similar problem is present in nolan lawson's catlog, but it lags for a few seconds and after that it runs just fine. Xiaomi mi 5.",1
+com.pluscubed.matlog,Mike G,"No longer works, just spins",3
+com.pluscubed.matlog,Jason Vidal,"Installed, opened, asked for root then literally spun the loading circle animation. Nothing happening after that. Using Resurrection Remix 5.8.3 nougat custom rom on hlte",1
+com.pluscubed.matlog,Praful Kothari,Great app,5
+com.pluscubed.matlog,MeccaTronics Channel,"Beautiful, easy to use, and detailed information. Thank you!",5
+com.pluscubed.matlog,AK Amith Kiran,"Working fine and helpful, thanks.",5
+com.pluscubed.matlog,Hiệp Trần,"Except modern UI, this app is no different from CatLog. We still can't save file with space...",2
+com.pluscubed.matlog,Raju Shetty,After installing it says you have to root your device or connect with android SDK..,1
+com.pluscubed.matlog,Randy Vallian,Good,5
+com.pluscubed.matlog,Matej Svec,"hey, good job you did there!",5
+com.pluscubed.matlog,Lsc Saelim,Love it.  Keep up the good work!,5
+com.pluscubed.matlog,filip rrs,Bravo!,5
+com.pluscubed.matlog,Amal' Samally,Very helpful app!,5
+com.pluscubed.matlog,Rohit Goswami,Pretty and functional,5
+com.pluscubed.matlog,Aditya G.,Very handy and useful.,5
+com.pluscubed.matlog,Daniel Verhoef,Useful and clean material design as well!,5
+com.pluscubed.matlog,Usman Abdul Halim,I'm using CatLog before but kinda lack of that nice UI feels. And this app is the answer.,5
+com.pluscubed.matlog,Dhafin Muktafin,"Don't forget to root your device, guys. This app is useful for developer 👍 Works well on Xiaomi Mi4 👍",4
+com.pluscubed.matlog,Ouwesh Seeroo,Thanks,5
+com.pluscubed.matlog,Vikas Babu,Awesome,5
+com.pluscubed.matlog,Kevin Jimenez,The best!,5
+com.pluscubed.matlog,Juan Irungaray,"If you need root access you should tell it upfront, before user wastes its time and data downloading an app that does nothing wothout it.",2
+com.pluscubed.matlog,blind rodro,Based on catlog :),5
+com.pluscubed.matlog,Edvinas B,this is what i've been looking about logcat! it was bade on gingerbread... And now is marshmallow/lollipop era. Very very nice and looks very identical to catlog app!,5

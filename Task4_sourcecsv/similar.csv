@@ -1,0 +1,11 @@
+Package Name,Reviewer name,Review,Rating
+sk.madzik.android.logcatudp,matthew dunnington,"The default IP address which is suggested has been reported many times as 
+spam and hackers for gaining access to devices",1
+sk.madzik.android.logcatudp,Jason Spittz,What??,1
+sk.madzik.android.logcatudp,Ladislav Tokar,Good app,5
+sk.madzik.android.logcatudp,Deniz Opal,"Thank you Jan, this made a device with a broken USB post useful as a test device again.",5
+sk.madzik.android.logcatudp,A Google user,"When I saw this I knew I had to utilize it with my arduino Ethernet board. As of now, I've got it configured to output received packets over serial but will be enjoying myself very much when it's a single unit displaying my logcat on an LCD screen. I would like to know why I am receiving my logcat packets from source IPs external to my network? Some appear from the androids IP but most others from a handful of outside IPs. Either I've missed something simple or the app routes traffic out(hopefully unlikely)",5
+sk.madzik.android.logcatudp,A Google user,This app saved me a ton of time on an adk app!!!,5
+sk.madzik.android.logcatudp,A Google user,You are a genious!,5
+sk.madzik.android.logcatudp,A Google user,"...This is the most useful app I've used so far as a developer. Saves time and some stresses. Hope to see some updates like better filtering options...and, if possible, color coding...something on par to alogcat would be incredible. Thanks for your work!",5
+sk.madzik.android.logcatudp,A Google user,"Nice App! Thanks for custom filters. Bug: In 3G tests, the service stops. I am seeking the bug for this..",4
